@@ -10,12 +10,11 @@ I'm developing my skills in software development, machine learning, cloud techno
 - **Languages:** Python, JavaScript, C, Java, R, SQL
 - **Development:** Flask, HTML, CSS, Git
 - **AI & Data:** PyTorch, scikit-learn, Pandas, NumPy
-- **ServiceNow:** Platform Administration, Flow Designer, JavaScript
+- **ServiceNow:** Certified System Administrator (CSA), Platform Administration, Flow Designer, JavaScript
 
 ## Currently Working On
 
 - RiseUp with ServiceNow
-- ServiceNow Certified System Administrator (CSA)
 - ServiceNow Certified Application Developer (CAD)
 - Building a portfolio of software and AI projects
 
